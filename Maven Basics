@@ -1,0 +1,27 @@
+Why Maven ? 
+Maven repository acts like a library which consist of many dependencies  with respect to the hibernate and spring framework , one can easily call a maven repository and get the desired action.
+
+What are dependencies ? 
+They are jar files which are used to work with any technology
+
+What is a project?
+Anything you create using Maven technology is known as a project 
+
+What is a pom.xml file ?
+It is a xml file where you can call out for the required dependencies 
+
+What is GroupID and ArtifaceID in Maven ?
+ArtifactID is used to uniquely identify your project from the world and GroupID will define your package . We will combine GroupID with Artifact ID to uniquely identify your Maven Projects.
+eg - ArtifactID  - demo and your GroupID - com.Telusko
+
+Terms related to Maven ? 
+1: ArtifactID  
+2: ProjectID
+3: GroupID
+4: Package
+
+mvnrepoitory.com - copy and paste the required dependancy in your code from this website 
+
+Maven uses both local and remote repository concept where it will search for the dependancy in the remote repo for the first time and then store it back in the local repo . The next time you search the same repo it will give you from the local repo. 
+
+Maven also acts a prerequisite for the spring framework and is used to create java and web based applications.
