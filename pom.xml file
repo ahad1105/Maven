@@ -32,5 +32,5 @@ in this case we are using the dependency = "j-unit" to work with, and defining i
     	<version>4.2.4.RELEASE</version>
     </dependency>
     
-	</dependencies>
+</dependencies>
 </project>
