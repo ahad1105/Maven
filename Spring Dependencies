@@ -1,0 +1,6 @@
+Spring framework acts as a developer tool ,which can be used to provide tools and features for different java applications such as - Software Development , web development and Enterprise Development.
+Dependency injection containers - They are responsible to create a object for you, and they will be injecting it in your class . 
+Loose Coupling - one object/class is not totally dependent on other object/class  
+Tight Coupling - one class/object  is purely dependent on other object/class
+The concept of adding required objects into your class using an external framework or dependencies is also known as spring framework dependencies
+To implement spring framework in your software , we have to go with the features of loosely coupled.
