@@ -1,0 +1,7 @@
+Bean Factory  - for small application.
+Application Context - for enterprise level application.
+getBean : is an method which we can get from 2 interfaces - either Beanfactory or Application context  , to work with either of them we have to import a package .
+Application context is a superset of bin factory , any feature provided by Bin factory is also provided by application context.
+to work with getBean method we need a xml file.
+we will define bean tag in xml , in this tag we will define the ID, Vehicle and class also we have to define the tag using xmlns,xsi and bean id 
+using spring.xml file we can use the objects defined in that xml file in our java code without changing the source code of the xml file . 
